@@ -1,4 +1,4 @@
-# Olá, sou Gustavo Fonseca de Araújo, desenvolvedor Web Front-End com foco em JavaScript, Typescript, React, CSS e HTML!
+# Olá, sou Gustavo Fonseca, desenvolvedor Web Front-End com foco em JavaScript, Typescript, React, CSS e HTML!
 
 Entrei a pouco tempo no mundo da programação e agora estou buscando minha primeira experiência profissional na área.
 
