@@ -2,8 +2,6 @@
 
 Entrei a pouco tempo no mundo da programação e agora estou buscando minha primeira experiência profissional na área.
 
-No momento estou trabalhando em projetos de portfólio que sirvam para demonstrar minhas capacidades.
-
 Em um futuro próximo pretendo aprimorar meus conhecimentos no Front-End, expandir para o Back-End e para o desenvolvimento em React Native.
 
 <div style="display: inline_block"><br>
