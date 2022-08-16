@@ -4,7 +4,7 @@ Entrei a pouco tempo no mundo da programação e agora estou buscando minha prim
 
 No momento estou trabalhando em projetos de portfólio que sirvam para demonstrar minhas capacidades.
 
-No futuro pretendo aprender Back-End e React Native.
+Em um futuro próximo pretendo aprimorar meus conhecimentos no Front-End, expandir para o Back-End e para o desenvolvimento em React Native.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
