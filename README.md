@@ -5,7 +5,7 @@ Entrei a pouco tempo no mundo da programação e agora estou buscando minha prim
 Em um futuro próximo pretendo aprimorar meus conhecimentos no Front-End, expandir para o Back-End e para o desenvolvimento em React Native.
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/gusfonseca21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusfonseca21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusfonseca21&layout=compact&langs_count=7&theme=dark"/>
     
