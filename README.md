@@ -1,4 +1,4 @@
-# Olá, sou Gustavo Fonseca, desenvolvedor Web Front-End com foco em JavaScript, Typescript, React, CSS e HTML!
+# Olá, sou Gustavo Fonseca, desenvolvedor Web Front-End com foco em JavaScript, React, CSS e HTML!
 
 <div align="center">
   <a href="https://github.com/gusfonseca21">
