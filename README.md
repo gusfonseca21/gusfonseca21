@@ -20,7 +20,6 @@ Você pode me encontrar pelo meu e-mail:
 
 - [📄 Currículo em PDF]([caminho/para/o/currículo.pdf](https://drive.google.com/file/d/194riXfSae-GNdUc5gxgrfP4SbfHuuzE-/view?usp=sharing))
 
-Sinta-se à vontade para explorar meus projetos e entrar em contato comigo. Vamos criar algo incrível juntos! 😄
 
 <div align="center">
   <a href="https://github.com/gusfonseca21">
