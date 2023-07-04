@@ -1,17 +1,32 @@
-# Olá, sou Gustavo Fonseca, desenvolvedor Web Front-End com foco em JavaScript, React, CSS e HTML!
+👋 Olá! Eu sou Gustavo Fonseca de Araújo
+Sou um desenvolvedor web front-end com foco em React, apaixonado por criar interfaces interativas e envolventes. Além de React, também possuo conhecimentos em TypeScript, React Native e Next.js.
+
+💻 Projetos
+Confira meu principal projeto pessoal: [Forkify](https://forkify-mu.vercel.app/) 🍴
+
+Repositório do Forkify: [GitHub](https://github.com/gusfonseca21/Forkify) 🚀
+
+🌱 Experiência e Conhecimentos
+- React
+- TypeScript
+- React Native
+- Next.js
+- Inglês Avançado
+
+📫 Entre em contato
+Você pode me encontrar pelo meu e-mail:
+
+- gusfonseca.dev@gmail.com
+
+- [📄 Currículo em PDF]([caminho/para/o/currículo.pdf](https://drive.google.com/file/d/194riXfSae-GNdUc5gxgrfP4SbfHuuzE-/view?usp=sharing))
+
+Sinta-se à vontade para explorar meus projetos e entrar em contato comigo. Vamos criar algo incrível juntos! 😄
 
 <div align="center">
   <a href="https://github.com/gusfonseca21">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusfonseca21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusfonseca21&layout=compact&langs_count=7&theme=dark"/>
     
-    
- <div style="display: inline_block"><br>
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+  
 </div>
 
 
